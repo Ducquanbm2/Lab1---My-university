@@ -79,8 +79,4 @@ Output: 126
 
 ---
 
-## 📄 License
-
-This project is licensed under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html).
-
 © 2025 Ducquanbm2
