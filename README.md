@@ -12,7 +12,6 @@ This is a C++ program that evaluates mathematical expressions containing the ope
   - [🚀 Usage](#-usage)
   - [🔖 Rules](#-rules)
   - [📂 Examples](#-examples)
-  - [📄 License](#-license)
 
 ---
 
